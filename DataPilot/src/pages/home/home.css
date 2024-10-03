@@ -1,0 +1,155 @@
+.home {
+  padding-top: -10px; 
+}
+
+.home .user {
+  display: flex;
+  align-items: center;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #ccc;
+}
+
+.home img {
+  width: 120px; 
+  height: 120px;
+  border-radius: 50%; 
+  margin-right: 20px; 
+  object-fit: cover; 
+  border: 2px solid #ddd;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); 
+}
+
+
+.userInfo .name {
+  font-size: 24px; 
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 5px;
+}
+
+.userInfo .access {
+  font-size: 16px;
+  font-weight: normal;
+  color: #666;
+}
+
+.home .login-info p {
+  line-height: 28px;
+  font-size: 14px;
+  color: #999999;
+}
+
+.home .login-info p span {
+  color: #666666;
+  margin-left: 10px; /* 调整间距以适应内容 */
+}
+
+.home .num {
+  margin-left: 5px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+ .el-card {
+  width: 32%;
+  margin-bottom: 20px;
+  background: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+ .icon {
+  font-size: 30px;
+  width: 80px;
+  height: 80px;
+  text-align: center;
+  line-height: 80px;
+  color: #fff;
+  background-color: #5ab1ef; /* 统一图标背景颜色 */
+  border-radius: 5px; /* 统一圆角 */
+  margin-right: 10px; /* 图标间距 */
+}
+
+.home .num .detail {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.home  .detail  {
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+.home .num .detail .txt {
+  font-size: 14px;
+  text-align: center;
+  color: #999999;
+}
+
+.txt{
+  margin-bottom: 20px;
+}
+
+.home .graph {
+  margin-top: 20px;
+  display: flex;
+  gap: 20px; 
+}
+
+.home .graph .el-card {
+  width: 48%;
+  background: #f9f9f9;
+  border-radius: 8px;
+}
+
+.home .anticon {
+  font-size: 30px;
+}
+.icon-box {
+  width: 80px; 
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px; 
+}
+
+.num {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.home .num .ant-card {
+  width: 33%;
+}
+
+.ant-card-body {
+  padding: 10px 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+
+.login-info {
+  margin-top: 10px;
+  padding: 10px;
+  background-color: #f9f9f9; 
+  border-radius: 8px; 
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); 
+}
+
+.login-info p {
+  font-size: 14px; 
+  color: #999;
+  margin-bottom: 5px;
+}
+
+.login-info p span {
+  font-weight: bold;
+  color: #333; 
+  margin-left: 10px;
+}
