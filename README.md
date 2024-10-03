@@ -29,7 +29,7 @@ This is a React-based backend management system developed with a modern frontend
 
 - Build a responsive page structure using Ant Design layout components to ensure a good user experience.
 
-<img src="C:\Users\79217\Desktop\fig\Netflix.png" alt="Netflix" style="zoom:67%;" />
+<img src="https://github.com/ToSniperSam/DataPilot/blob/main/fig/Netfilx.png" alt="Netflix" style="zoom: 20%;" />
 
 ### Menu Permission Configuration
 
@@ -39,7 +39,7 @@ This is a React-based backend management system developed with a modern frontend
 
 - Provide a user list for display and management, supporting create, read, update, and delete operations.
 
-<img src="C:\Users\79217\Desktop\fig\User.png" alt="User" style="zoom:50%;" />
+<img src="https://github.com/ToSniperSam/DataPilot/blob/main/fig/User.png" alt="User" style="zoom: 20%;" />
 
 ### Breadcrumb and Menu Functionality
 
@@ -49,13 +49,13 @@ This is a React-based backend management system developed with a modern frontend
 
 - Implement user login and permission management to ensure system security and data protection.
 
-<img src="C:\Users\79217\Desktop\fig\Login.png" alt="Login" style="zoom:50%;" />
+<img src="https://github.com/ToSniperSam/DataPilot/blob/main/fig/Login.png" alt="Login" style="zoom: 20%;" />
 
 ### Component Encapsulation and Modularization
 
 - Employ a component-based design, encapsulating commonly used components to improve code reusability and maintainability.
 
-<img src="C:\Users\79217\Desktop\fig\Add.png" alt="Add" style="zoom:50%;" />
+<img src="https://github.com/ToSniperSam/DataPilot/blob/main/fig/Add.png" alt="Add" style="zoom: 20%;" />
 
 
 
