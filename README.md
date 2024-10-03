@@ -29,7 +29,7 @@ This is a React-based backend management system developed with a modern frontend
 
 - Build a responsive page structure using Ant Design layout components to ensure a good user experience.
 
-<img src="https://github.com/ToSniperSam/DataPilot/blob/main/fig/Netfilx.png" alt="Netflix" style="zoom: 20%;" />
+<img src="https://github.com/ToSniperSam/DataPilot/blob/main/fig/Netflix.png" alt="Netflix" style="zoom: 20%;" />
 
 ### Menu Permission Configuration
 
