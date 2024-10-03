@@ -2,7 +2,7 @@
 
 # Data Pilot
 
-<img src="https://github.com/ToSniperSam/DataPilot/blob/main/fig/Home.png" alt="Home" style="zoom: 50%;" />
+<img src="https://github.com/ToSniperSam/DataPilot/blob/main/fig/Home.png" alt="Home" style="zoom: 20%;" />
 
 ## Project Overview
 
